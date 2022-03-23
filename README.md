@@ -1,7 +1,7 @@
 
 <p align="center">
       <a href="">
-        <img src="https://raw.githubusercontent.com/Nexterr-origin/simpleTV-images/master/logo_f2z.png" 
+        <img src="https://raw.githubusercontent.com/Nexterr-origin/simpleTV-images/master/z22.png" 
             title="simpleTV домашняя страница" alt="simpleTV homepage" width="150"/>
       </a>
 </p>
